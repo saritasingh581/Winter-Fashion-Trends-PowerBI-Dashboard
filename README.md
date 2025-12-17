@@ -37,8 +37,8 @@ Help stakeholders understand:
 
 Winter-Fashion-Trends-PowerBI  
 │-- Winter_Fashion_Dashboard.pbix  
-│-- Winter_Fashion_Dataset.csv          # Cleaned dataset used in Power BI  
-│-- Raw_Winter_Fashion_Dataset.csv      # Raw dataset from Kaggle    
+│-- Winter_Fashion_Dataset.csv            # Cleaned dataset used in Power BI  
+│-- Raw_Winter_Fashion_Dataset.csv        # Raw dataset from Kaggle      
 │-- dashboard_preview.png  
 │-- README.md  
 
