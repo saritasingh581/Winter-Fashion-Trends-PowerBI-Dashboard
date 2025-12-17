@@ -34,13 +34,13 @@ Help stakeholders understand:
 - A strong portion of products falls under Trending and Emerging, highlighting evolving fashion demand.  
 
 📁 Files
-Winter-Fashion-Trends-PowerBI
-│-- Winter_Fashion_Dashboard.pbix
-│-- Winter_Fashion_Dataset.csv        # Cleaned dataset used in Power BI
-│-- Raw_Winter_Fashion_Dataset.csv    # Raw dataset from Kaggle
-│-- dashboard_preview.png
-│-- README.md
+Winter-Fashion-Trends-PowerBI  
+│-- Winter_Fashion_Dashboard.pbix  
+│-- Winter_Fashion_Dataset.csv        # Cleaned dataset used in Power BI  
+│-- Raw_Winter_Fashion_Dataset.csv    # Raw dataset from Kaggle    
+│-- dashboard_preview.png  
+│-- README.md  
 
-👤 Author
-Sarita Singh
-Aspiring Data Analyst | Power BI | SQL | Excel
+👤 Author  
+Sarita Singh  
+Aspiring Data Analyst | Power BI | SQL | Excel  
