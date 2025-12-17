@@ -33,11 +33,6 @@ Help stakeholders understand:
 - Jackets receive the highest customer ratings.  
 - A strong portion of products falls under Trending and Emerging, highlighting evolving fashion demand.  
 
-📷 Dashboard Preview
-
-
-
-
 📁 Files
 Winter-Fashion-Trends-PowerBI
 │-- Winter_Fashion_Dashboard.pbix
@@ -45,7 +40,7 @@ Winter-Fashion-Trends-PowerBI
 │-- Raw_Winter_Fashion_Dataset.csv    # Raw dataset from Kaggle
 │-- dashboard_preview.png
 │-- README.md
-👤 Author
 
+👤 Author
 Sarita Singh
 Aspiring Data Analyst | Power BI | SQL | Excel
