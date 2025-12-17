@@ -20,25 +20,18 @@ Help stakeholders understand:
 
 🛠️ Skills Demonstrated
 
-Power BI: Data modeling, DAX measures, interactive dashboards
-
-Power Query: Data cleaning and transformation
-
-Data Analysis: Trend identification and business insights
-
-Data Visualization: KPI cards, bar charts, donut charts, slicers
+- Power BI: Data modeling, DAX measures, interactive dashboards  
+- Power Query: Data cleaning and transformation  
+- Data Analysis: Trend identification and business insights  
+- Data Visualization: KPI cards, bar charts, donut charts, slicers  
 
 📈 Key Insights
 
-Scarves and Thermals are the highest revenue-generating categories.
-
-Uniqlo and North Face lead brand-wise revenue.
-
-Cotton and Fleece dominate material usage.
-
-Jackets receive the highest customer ratings.
-
-A strong portion of products falls under Trending and Emerging, highlighting evolving fashion demand.
+- Scarves and Thermals are the highest revenue-generating categories.  
+- Uniqlo and North Face lead brand-wise revenue.  
+- Cotton and Fleece dominate material usage.  
+- Jackets receive the highest customer ratings.  
+- A strong portion of products falls under Trending and Emerging, highlighting evolving fashion demand.  
 
 📷 Dashboard Preview
 
