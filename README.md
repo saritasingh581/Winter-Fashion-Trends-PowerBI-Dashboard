@@ -1,17 +1,13 @@
-❄️ Winter Fashion Trends & Insights Dashboard
 📌 Project Summary
 
 A Power BI portfolio project built using a Kaggle winter fashion dataset to analyze product performance, customer ratings, and trend behavior. The dashboard delivers business-ready insights through clear KPIs and interactive visualizations.
 
 🎯 Business Objective
 
-Help stakeholders understand:
-
-Which categories and brands drive the most revenue
-
-How products perform across trend status (Trending, Emerging, Classic, Outdated)
-
-Customer preferences based on ratings, materials, and gender
+Help stakeholders understand:  
+- Which categories and brands drive the most revenue  
+- How products perform across trend status (Trending, Emerging, Classic, Outdated)  
+- Customer preferences based on ratings, materials, and gender  
 
 📊 Key Metrics & Analysis
 
