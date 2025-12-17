@@ -11,17 +11,12 @@ Help stakeholders understand:
 
 📊 Key Metrics & Analysis
 
-Total Revenue
-
-Average Rating
-
-Average Popularity
-
-Trending % and Trending Product Count
-
-Revenue by Category & Brand
-
-Product distribution by Trend Status and Material
+- Total Revenue   
+- Average Rating    
+- Average Popularity    
+- Trending % and Trending Product Count    
+- Revenue by Category & Brand    
+- Product distribution by Trend Status and Material  
 
 🛠️ Skills Demonstrated
 
